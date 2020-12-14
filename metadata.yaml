@@ -1,0 +1,45 @@
+_repo: The-Crowded-Colony_63930
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mayan, Earl
+    alias: Mayan, Earl Eugene
+    birthdate: 1916
+    deathdate: 2009
+    gutenberg_agent_id: '52636'
+    url: http://www.gutenberg.org/2009/agents/52636
+    wikipedia: https://en.wikipedia.org/wiki/Earl_Mayan
+creator:
+  author:
+    agent_name: Bixby, Jerome
+    aliases:
+    - Lewis, D.B.
+    - Neal, Harry
+    - Bixby, Jerry
+    - Drexel, Jay B.
+    - Bixby, Jay Lewis
+    - Lewis, D. B.
+    - Bixby, Drexel Jerome Lewis
+    birthdate: 1923
+    deathdate: 1998
+    gutenberg_agent_id: '34130'
+    url: http://www.gutenberg.org/2009/agents/34130
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
+description: ''
+gutenberg_issued: '2020-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: The Crowded Colony
+url: http://www.gutenberg.org/ebooks/63930
